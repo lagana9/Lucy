@@ -195,10 +195,10 @@ if is_module_loaded(FILENAME):
         return build_curr_disabled(chat.id, chat.id)
 
 
-    __mod_name__ = "Command disabling"
+    __mod_name__ = "Disabling"
 
     __help__ = """
-Not everyone wants every feature that rose offers. Some commands are best left unused; to avoid spam and abuse.
+Not everyone wants every feature that *{}* offers. Some commands are best left unused; to avoid spam and abuse.
 
 This allows you to disable some commonly used commands, so noone can use them. It'll also allow you to autodelete them, stopping people from
 
