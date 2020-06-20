@@ -200,7 +200,7 @@ if is_module_loaded(FILENAME):
     __help__ = """
 Not everyone wants every feature that *{}* offers. Some commands are best left unused; to avoid spam and abuse.
 
-This allows you to disable some commonly used commands, so noone can use them. It'll also allow you to autodelete them, stopping people from
+This allows you to disable some commonly used commands, so noone can use them. It'll also allow you to autodelete them, stopping people from blue texting. 
 
 Available commands are:
  - /disable <commandname>: stop users from using the "commandname" command in this group.
